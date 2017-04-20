@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Zertu/mobiparser#readme",
   "devDependencies": {
+    "bufferpack": "0.0.6",
     "text-encoding": "^0.6.4"
   }
 }
