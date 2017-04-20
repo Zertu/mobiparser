@@ -1,0 +1,26 @@
+{
+  "name": "mobiparser",
+  "version": "1.0.0",
+  "description": "parser for mobi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zertu/mobiparser.git"
+  },
+  "keywords": [
+    "mobi"
+  ],
+  "author": "zertu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zertu/mobiparser/issues"
+  },
+  "homepage": "https://github.com/Zertu/mobiparser#readme",
+  "devDependencies": {
+    "text-encoding": "^0.6.4"
+  }
+}
